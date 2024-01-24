@@ -1,4 +1,4 @@
-## Click Here:- https://ramya-brs.github.io/Palindrome/
+## Click Here:- (https://ramya-brs.github.io/palindrome/)
 
 ## Palindrome
 The isPalindrome function checks if a given string str is a palindrome, which means it reads the same forwards and backwards. It uses two pointers, i and j, initialized at the beginning and the end of the string, respectively. While i is less than j, it compares the characters at the ith and jth positions. If they are not equal, it immediately returns false, indicating that the string is not a palindrome. If the characters are equal, it moves i one step forward and j one step backward, continuing the comparison until i is no longer less than j.
