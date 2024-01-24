@@ -1,4 +1,4 @@
-## Click Here:- https://ramya-brs.github.io/Isomorphic-String/
+## Click Here:- (https://ramya-brs.github.io/isomorphic-string/)
 
 ## Isomorphic String
 The isIsomorphic algorithm checks if two strings, str1 and str2, are isomorphic. Isomorphic strings have a one-to-one mapping of characters from str1 to str2, preserving the order of characters. It first compares the lengths of the input strings, returning false if they are different. Then, it uses a map to keep track of the mappings and a set to ensure that multiple characters do not map to the same character. For each character in str1, it checks if it already has a mapping; if yes, it ensures that the mapping is consistent with the character in str2.
