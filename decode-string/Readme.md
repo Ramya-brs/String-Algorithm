@@ -1,4 +1,4 @@
-## Click Here:- https://ramya-brs.github.io/Decode-String/
+## Click Here:- https://ramya-brs.github.io/decode-string/
 
 ## Decode String
 The decodeString function decodes an encoded string by processing it character by character using a stack. It handles repetitions of substrings enclosed in brackets, indicated by a preceding number. As it traverses the input string, it extracts substrings and their repetition counts, then repeats and stores them in the stack. After processing the entire input, it joins the elements in the stack to construct the decoded string.
