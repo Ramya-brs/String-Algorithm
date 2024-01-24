@@ -1,4 +1,4 @@
-## Click Here:-
+## Click Here:- https://ramya-brs.github.io/Hamming-Algorithm/
 
 ## Hamming
 The hamming function calculates the Hamming distance between two equal-length strings a and b. The Hamming distance is the number of positions at which the corresponding characters differ between the two strings. It first checks if both input strings have the same length; otherwise, it throws an error. Then, it iterates through the characters of both strings, comparing them at each position. If the characters differ, it increments the distance counter.
